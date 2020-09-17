@@ -1,0 +1,20 @@
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.exe.config
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.exe
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.pdb
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.Properties.Resources.resources
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.Views.ClienteView.resources
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csproj.GenerateResource.cache
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.exe
+C:\Users\Dantes\source\repos\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.exe.config
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.Views.ClienteView.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.pdb
